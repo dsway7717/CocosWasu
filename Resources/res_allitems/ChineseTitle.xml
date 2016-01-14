@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict>
+	<key>0</key>
+	<string>热门</string>
+
+	<key>1</key>
+	<string>电视剧</string>
+
+	<key>2</key>
+	<string>电影</string>
+
+	<key>3</key>
+	<string>动画</string>
+
+	<key>4</key>
+	<string>综艺</string>
+</dict>
